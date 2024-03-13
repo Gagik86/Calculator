@@ -1,0 +1,71 @@
+.body {
+    background-color: rgb(139, 197, 147);
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px;
+    gap: 5px;
+}
+.h1 {
+    color: rgb(33, 9, 168);
+    font-size: 50px;
+}
+.btn1 {
+    background-color: rgb(167, 157, 157);
+    color: rgb(2, 54, 99);
+    border: solid rgb(68, 68, 124);
+    width: 100px;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 5px;
+    font-size: 30px;
+}
+.btn1:hover {
+    background-color: rgb(0, 255, 106);
+    color: black;
+}
+.btn2 {
+    background-color: rgb(167, 157, 157);
+    color: rgb(2, 54, 99);
+    border: solid rgb(68, 68, 124);
+    width: 100px;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 5px;
+    font-size: 30px;
+}
+.btn2:hover {
+    background-color: rgb(255, 0, 0);
+    color: black;
+}
+.btn3 {
+    background-color: aqua;
+    width: 200px;
+    border-radius: 8px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.btn3:hover {
+    background-color: blue;
+    color: aliceblue;
+}
+.placholder1 {
+    width: 180px;
+    border-radius: 8px;
+    padding: 10px;
+}
+.text-ardyunq {
+    border: solid black;
+    background-color: aliceblue;
+    padding: 0px 45px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 30px;
+}
+.text-ardyunq:hover {
+    background-color: chartreuse;
+    color: rgb(119, 67, 0);
+}
